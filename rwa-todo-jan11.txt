@@ -1,0 +1,12 @@
+TO DO:
+
+--- pravljenje korisnika
+* video tutorial: Dani Krossing 44 - PHP login system
+- ime + lozinka
+- ograničena dužina imena na x charactera
+- upravljanje sjednicom
+- možda upload profilne slike? ako budemo imali vremena
+
+
+--- kontakt
+- neki form za kontakt ili slanje poruke "firmi"
